@@ -6,3 +6,16 @@ def view_all_tasks():
 # Toggle a task status from "Pending" to "Completed".
 def mark_as_complete():
     pass
+
+
+def add_task(): # Quickly add new tasks with a title and priority
+    pass
+
+def delete_tasks(): # Remove tasks you no longer need.
+    pass
+
+def priority_level(): # Assign priority levels to tasks
+    pass
+
+
+    
