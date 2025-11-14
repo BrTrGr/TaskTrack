@@ -19,3 +19,8 @@ def priority_level(): # Assign priority levels to tasks
 
 
     
+# git pull origin main
+# accept changes
+# git add main.py
+# git commit -m ""
+# git push
