@@ -1,0 +1,15 @@
+import customtkinter as ctk
+
+
+
+def add_task(): # Quickly add new tasks with a title and priority
+    pass
+
+def delete_tasks(): # Remove tasks you no longer need.
+    pass
+
+def priority_level(): # Assign priority levels to tasks
+    pass
+
+
+    
