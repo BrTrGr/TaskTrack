@@ -1,6 +1,5 @@
 import customtkinter as ctk
 
-import tasks
 from tasks import *
 
     

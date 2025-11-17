@@ -1,0 +1,25 @@
+import customtkinter as ctk
+
+# 1. System Settings (Optional but Recommended)
+ctk.set_appearance_mode("System")  # Modes: "System" (default), "Dark", "Light"
+ctk.set_default_color_theme("blue") # Themes: "blue" (default), "green", "dark-blue"
+
+# 2. Create the Root Window
+app = ctk.CTk()
+app.title("My CTk Application") # Set the window title
+app.geometry("400x300")     # Set the window size (width x height)
+
+# 3. Start the Main Loop
+app.mainloop()
+
+# 4. Adding Buttons
+button1 = ctk.CTkButton(master=app, text="smth", command=any function , fg_color="smth" )
+button1.pack() #Pack on every widget to make it appear
+
+# 5. Adding Labels
+label1 = ctk.CTkLabel(master=app, text="smth", font=ctk.CTkFont(size=20, weight="bold"))
+label1.pack(pady=20) #You can also add vertical padding
+
+
+
+
