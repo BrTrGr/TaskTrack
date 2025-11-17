@@ -1,22 +1,26 @@
 import customtkinter as ctk
+# import customtinker *
 
 # See your entire task list in a clean, scrollable frame.
 def view_all_tasks():
     pass
+
 # Toggle a task status from "Pending" to "Completed".
 def mark_as_complete():
     pass
 
 
-def add_task(): # Quickly add new tasks with a title and priority
+# Quickly add new tasks with a title and priority
+def add_task():
     pass
 
-def delete_tasks(): # Remove tasks you no longer need.
+# Remove tasks you no longer need. 
+def delete_tasks():
     pass
 
-def priority_level(): # Assign priority levels to tasks
+# Assign priority levels to tasks
+def priority_level():
     pass
-
 
     
 # git pull origin main
