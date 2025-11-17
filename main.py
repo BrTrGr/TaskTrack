@@ -1,6 +1,7 @@
 import customtkinter as ctk
-# import customtinker *
 
+import tasks
+from tasks import *
 
     
 # git pull origin main
